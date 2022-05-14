@@ -1,15 +1,15 @@
 # Time Tracking Dashboard React/Tailwind
 
-Proje FrontendMentor adlı siteye aittir. Kodlaması tarafımdan yapılmıştır. Yerel bir Json dosyasından veriler çekilip dashboardda Günlük/haftalık/Aylık olarak gösterilmiştir.
+Proje FrontendMentor adlı siteye aittir. Kodlaması tarafımdan yapılmıştır. Yerel bir Json dosyasından veriler çekilip dashboardda Günlük/haftalık/Aylık olarak gösterilmiştir.  
 
 -Site Live URL: https://time-tracking-dashboard-react-zeta.vercel.app/
 
-**Kullanılan teknolojiler;**
--Html
--JavaScript(ReactJS)
--TailwindCss
--Json
--Responsive
+**Kullanılan teknolojiler;**  
+-Html  
+-JavaScript(ReactJS)  
+-TailwindCss  
+-Json  
+-Responsive  
 
 ## Ekran görüntüleri
 ![image](https://user-images.githubusercontent.com/44196940/168428684-99d00f0e-7de3-423b-9991-f799398b31b7.png)

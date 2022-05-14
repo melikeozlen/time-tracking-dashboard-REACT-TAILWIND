@@ -2,7 +2,7 @@
 
 Proje FrontendMentor adlı siteye aittir. Kodlaması tarafımdan yapılmıştır. Yerel bir Json dosyasından veriler çekilip dashboardda Günlük/haftalık/Aylık olarak gösterilmiştir.  
 
--Site Live URL: https://time-tracking-dashboard-react-zeta.vercel.app/
+-Live URL: https://time-tracking-dashboard-react-zeta.vercel.app/
 
 **Kullanılan teknolojiler;**  
 -Html  
